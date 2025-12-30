@@ -32,7 +32,7 @@ This project generates **essays and poems** using a locally running LLM — **no
 ---
 
 ## 📁 Project Structure
-
+```
 LANGCHAIN/
 │
 ├── api/
@@ -42,5 +42,6 @@ LANGCHAIN/
 ├── .gitignore # Ignored files (venv, .env, cache)
 ├── README.md
 └── venv/ # Virtual environment (ignored)
+```
 
 
